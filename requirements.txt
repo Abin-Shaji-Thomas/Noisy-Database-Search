@@ -1,0 +1,6 @@
+qiskit>=1.0
+qiskit-aer
+matplotlib
+numpy
+gradio
+pylatexenc
